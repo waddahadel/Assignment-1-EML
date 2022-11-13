@@ -1,0 +1,4 @@
+1.all of them linear, write the 4 later
+2.cylinders and displacement -> higher ,,,,,, origin and year -> lower
+3. The most significent is (displacement), The best model is the mgp displacement model (cause it has the highest R2 value) while the worst is the mpg and year model ( negative value of R2)
+4. the model fit is by far much better than the best model in the previous problem with an R2 score of 0.47
